@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-import Sidebar from "../components/Sidebar";
+// import Sidebar from "../components/Sidebar";
 import Header from "../components/Header";
 import StatsCard from "../components/StatsCard";
-import EmployeeTable from "../components/EmployeeTable";
+// import EmployeeTable from "../components/EmployeeTable";
 import api from "../services/app";
 
 function Dashboard() {

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import AddEmployee from "../components/AddEmployee";
+// import AddEmployee from "../components/AddEmployee";
 import EmployeeTable from "../components/EmployeeTable";
 
 function EmployeePage() {
